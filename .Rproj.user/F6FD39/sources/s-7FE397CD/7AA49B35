@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550662775778.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "850519685",
+    "id" : "7AA49B35",
+    "lastKnownWriteTime" : 1550662827,
+    "last_content_update" : 1550662827637,
+    "path" : "C:/Users/gudz/RStudio_Projects/Temp_Project/Temp.R",
+    "project_path" : "Temp.R",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
